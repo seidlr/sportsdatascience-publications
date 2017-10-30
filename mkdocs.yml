@@ -1,0 +1,54 @@
+# Project information
+site_name: 'Sports Data Science publications'
+site_description: 'Summaries of the most important publications in sports data science'
+site_author: 'Thomas und Robert Seidl'
+
+theme: 'material' #'windmill'
+pages:
+    - Home: 'index.md'
+    - Football:
+        - Ghosting: 'football/ghosting.md'
+    - Basketball:
+        - Ghosting: 'basketball/ghosting.md'
+    - Tennis:
+        - The thin edge of the wedge: 'tennis/thin_edge_of_wedge.md'
+
+    
+# Copywright
+copyright: 'Copyright &copy; 2017 Thomas und Robert Seidl'
+
+# Repository
+# repo_name: 'seidlr/my-project'
+# repo_url: 'https://gitlab.com/seidlr/my-project'
+#extra:
+#    repo_icon: 'gitlab'
+#    logo:
+#       icon: 'videocam'
+       
+# Google Analytics
+# google_analytics:
+#    - 'UA-XXXXXXXX-X'
+#    - 'auto'
+  
+extra_javascript:
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+markdown_extensions:
+    - admonition
+    - codehilite(guess_lang=false)
+    - toc(permalink=true)
+# other extensions
+    - pymdownx.arithmatex
+    - pymdownx.betterem(smart_enable=all)
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist(custom_checkbox=true)
+    - pymdownx.tilde
