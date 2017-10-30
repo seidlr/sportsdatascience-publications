@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Home", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#home", 
+            "text": "", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/football/ghosting/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Ghosting"
+        }, 
+        {
+            "location": "/football/ghosting/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/football/ghosting/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/football/ghosting/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/basketball/ghosting/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Ghosting"
+        }, 
+        {
+            "location": "/basketball/ghosting/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/basketball/ghosting/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/basketball/ghosting/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/tennis/thin_edge_of_wedge/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "The thin edge of the wedge"
+        }, 
+        {
+            "location": "/tennis/thin_edge_of_wedge/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/tennis/thin_edge_of_wedge/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/tennis/thin_edge_of_wedge/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }
+    ]
+}
